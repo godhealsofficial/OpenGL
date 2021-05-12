@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "gl_base_sample_2020",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "gl_base_sample_2020::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gl_base_sample_2020-Debug-d60139bf107d14b6f814.json",
+					"name" : "gl_base_sample_2020",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Study/6T_(3C)/Компьютерная графика/OpenGL/2021-opengl/gl_base_sample_2020/out/build/x64-Debug",
+		"source" : "D:/Study/6T_(3C)/Компьютерная графика/OpenGL/2021-opengl/gl_base_sample_2020"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
