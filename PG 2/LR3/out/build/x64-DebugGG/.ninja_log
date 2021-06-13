@@ -1,0 +1,9 @@
+# ninja log v5
+0	225	615302714	CMakeFiles/main.dir/glad.c.obj	4ef2209c06b3eb7
+5	716	615302714	CMakeFiles/main.dir/Camera.cpp.obj	2650d9498a4371f6
+3	870	615302714	CMakeFiles/main.dir/ShaderProgram.cpp.obj	d7d089ad8dfa1bdc
+6	912	615302714	CMakeFiles/main.dir/Texture.cpp.obj	504df6c8d0590685
+2	1275	615302715	CMakeFiles/main.dir/main.cpp.obj	6a1dca862e534130
+1276	1729	615302715	../../../bin/main.exe	7c9efd8ed7d64d5a
+0	1079	615302765	CMakeFiles/main.dir/main.cpp.obj	6a1dca862e534130
+1081	1484	615302765	../../../bin/main.exe	7c9efd8ed7d64d5a

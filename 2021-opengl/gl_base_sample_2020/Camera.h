@@ -7,6 +7,11 @@
 #include "common.h"
 
 #include "LiteMath.h"
+
+#include <GLFW/glfw3.h>
+#include <GLAD/glad/glad.h>
+#include <vector>
+
 using namespace LiteMath;
 
 enum Movement_Direction

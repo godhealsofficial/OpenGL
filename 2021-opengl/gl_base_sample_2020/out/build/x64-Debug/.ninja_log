@@ -1,12 +1,12 @@
 # ninja log v5
-0	7	0	clean	9992afb1f91dc381
-4	210	6425570225156337	CMakeFiles/gl_base_sample_2020.dir/glad.c.obj	1f986e5c46fb9f7e
-10	553	6425570228577187	CMakeFiles/gl_base_sample_2020.dir/Camera.cpp.obj	40e6064abfa09705
-7	655	6425570229587301	CMakeFiles/gl_base_sample_2020.dir/ShaderProgram.cpp.obj	2229ffbeb852695f
-1	741	6425570230447581	CMakeFiles/gl_base_sample_2020.dir/main.cpp.obj	2d4bb7ab80e05441
-742	1083	6425570233318140	../../../bin/gl_base_sample_2020.exe	148bf3874ff74847
-4	219	6425570307047134	CMakeFiles/gl_base_sample_2020.dir/glad.c.obj	1f986e5c46fb9f7e
-10	543	6425570310297842	CMakeFiles/gl_base_sample_2020.dir/Camera.cpp.obj	40e6064abfa09705
-7	652	6425570311378165	CMakeFiles/gl_base_sample_2020.dir/ShaderProgram.cpp.obj	2229ffbeb852695f
-0	722	6425570312068320	CMakeFiles/gl_base_sample_2020.dir/main.cpp.obj	2d4bb7ab80e05441
-722	903	6425570313272163	../../../bin/gl_base_sample_2020.exe	148bf3874ff74847
+1	14	0	clean	9992afb1f91dc381
+1405	1775	6445288933622995	../../../bin/gl_base_sample_2020.exe	148bf3874ff74847
+8	708	6445288924491754	CMakeFiles/gl_base_sample_2020.dir/glad.c.obj	1f986e5c46fb9f7e
+12	1284	6445288930214107	CMakeFiles/gl_base_sample_2020.dir/ShaderProgram.cpp.obj	2229ffbeb852695f
+17	1107	6445288928346606	CMakeFiles/gl_base_sample_2020.dir/Camera.cpp.obj	40e6064abfa09705
+1	1404	6445288931436478	CMakeFiles/gl_base_sample_2020.dir/main.cpp.obj	2d4bb7ab80e05441
+2	700	6453011672492861	CMakeFiles/gl_base_sample_2020.dir/glad.c.obj	1f986e5c46fb9f7e
+12	1252	6453011678037062	CMakeFiles/gl_base_sample_2020.dir/Camera.cpp.obj	40e6064abfa09705
+16	1422	6453011679769367	CMakeFiles/gl_base_sample_2020.dir/ShaderProgram.cpp.obj	2229ffbeb852695f
+9	1521	6453011680769566	CMakeFiles/gl_base_sample_2020.dir/main.cpp.obj	2d4bb7ab80e05441
+1521	1928	6453011683754210	../../../bin/gl_base_sample_2020.exe	148bf3874ff74847
